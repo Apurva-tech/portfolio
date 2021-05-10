@@ -1198,6 +1198,7 @@ p {
     left: 0;
     background-color: #fff;
     padding: 25px;
+    opacity: 0.824;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
